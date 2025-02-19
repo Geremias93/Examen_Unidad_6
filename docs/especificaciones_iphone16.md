@@ -1,311 +1,282 @@
-iPhone 16 - Especificaciones técnicas
+# iPhone 16 - Especificaciones técnicas
 
-Año de presentación: 2024
+## Año de presentación: 2024
 
-Acabado
+## Acabado
 
--   Negro
--   blanco
--   rosa
--   verde azulado
--   azul ultramar
+- **Negro**
+- **Blanco**
+- **Rosa**
+- **Verde azulado**
+- **Azul ultramar**
 
-Diseño de aluminio, Parte delantera con Ceramic Shield
-de última generación, Parte trasera de vidrio tintado en masa
-(negro, rosa, verde azulado y azul ultramar)
+**Diseño de aluminio**, Parte delantera con **Ceramic Shield** de última generación, Parte trasera de **vidrio tintado en masa** (negro, rosa, verde azulado y azul ultramar).
 
-Capacidad
+## Capacidad
 
--   128 GB
--   256 GB
--   512 GB
+- **128 GB**
+- **256 GB**
+- **512 GB**
 
-Dimensiones y peso^2^
+## Dimensiones y peso
 
--   Ancho: 7,16 cm
--   Alto: 14,76 cm
--   Grosor: 0,78 cm
--   Peso: 170 g
+- **Ancho:** 7,16 cm  
+- **Alto:** 14,76 cm  
+- **Grosor:** 0,78 cm  
+- **Peso:** 170 g  
 
-Pantalla
+## Pantalla
 
--   Pantalla Super Retina XDR
--   Pantalla OLED de 6,1 pulgadas (15,54 cm) en diagonal
--   Resolución de 2.556 por 1.179 píxeles a 460 p/p
--   Dynamic Island
--   Pantalla HDR
--   True Tone
--   Gama cromática amplia (P3)
--   Respuesta háptica
--   Contraste de 2.000.000:1 (típico)
--   Brillo máximo de 1.000 nits (típico), pico de brillo de 1.600 nits
-    (HDR), pico de brillo de 2000 nits (en exteriores) y brillo mínimo
-    de 1 nit
--   Cubierta oleófuga antihuellas
--   Compatible con la presentación simultánea de múltiples idiomas
-    y grupos de caracteres
+- **Pantalla Super Retina XDR**
+- **Pantalla OLED de 6,1 pulgadas (15,54 cm) en diagonal**
+- **Resolución:** 2.556 × 1.179 píxeles a 460 ppi
+- **Dynamic Island**
+- **Pantalla HDR**
+- **True Tone**
+- **Gama cromática amplia (P3)**
+- **Respuesta háptica**
+- **Contraste:** 2.000.000:1 (típico)
+- **Brillo máximo:** 1.000 nits (típico), pico de brillo de 1.600 nits (HDR), pico de brillo de 2.000 nits (en exteriores) y brillo mínimo de 1 nit
+- **Cubierta oleófuga antihuellas**
+- **Compatible con la presentación simultánea de múltiples idiomas y grupos de caracteres**
 
-La pantalla del iPhone 16 tiene esquinas redondeadas que rematan el
-diseño curvo del dispositivo, y esas esquinas se encuentran dentro de un
-rectángulo estándar. Si se mide como un rectángulo estándar en diagonal,
-la pantalla tiene 6,12 pulgadas. La superficie real de visión
-es inferior.
+> La pantalla del iPhone 16 tiene esquinas redondeadas que rematan el diseño curvo del dispositivo, y esas esquinas se encuentran dentro de un rectángulo estándar. Si se mide como un rectángulo estándar en diagonal, la pantalla tiene 6,12 pulgadas. La superficie real de visión es inferior.
 
-Resistencia a las salpicaduras, el agua y el polvo^3^
+## Resistencia a las salpicaduras, el agua y el polvo
 
-Calificación IP68 según la norma IEC 60529 (hasta 6 metros
-de profundidad durante un máximo de 30 minutos)
+**Calificación IP68** según la norma **IEC 60529** (hasta 6 metros de profundidad durante un máximo de 30 minutos).
 
-Chip
+## Chip
 
--   Chip A18
--   Nueva CPU de 6 núcleos (2 de rendi­miento y 4 de eficiencia)
--   Nueva GPU de 5 núcleos
--   Nuevo Neural Engine de 16 núcleos
+- **Chip A18**
+- **Nueva CPU de 6 núcleos** (2 de rendimiento y 4 de eficiencia)
+- **Nueva GPU de 5 núcleos**
+- **Nuevo Neural Engine de 16 núcleos**
 
-Cámara
+## Cámara
 
-Sistema avanzado de cámara dual
+### **Sistema avanzado de cámara dual**
 
--   Cámara Fusion de 48 Mpx: 26 mm, apertura de ƒ/1,6,
-    estabili­zación óptica de imagen por desplazamiento del sensor,
-    100 % Focus Pixels y compati­bilidad con fotos de superalta
-    resolución (24 y 48 Mpx)
--   Teleobjetivo x2 de 12 Mpx: 48 mm, apertura de ƒ/1,78, estabilización
-    óptica de imagen por desplazamiento del sensor de segunda generación
-    y 100 % Focus Pixels
--   Ultra gran angular de 12 Mpx: 13 mm, apertura de ƒ/2,2 y campo
-    de visión de 120° y 100 % Focus Pixels
--   Zoom óptico de acercamiento x2, zoom óptico de alejamiento x2
-    y rango de zoom óptico x4
--   Zoom digital hasta x10
--   Control de Cámara
--   Cubierta de la lente de cristal de zafiro
--   Flash True Tone
--   Photonic Engine
--   Deep Fusion
--   HDR Inteligente 5
--   Retratos de última generación con Control de Profundidad y Enfoque
--   Iluminación de Retratos con seis efectos
--   Modo Noche
--   Fotos panorámicas (hasta 63 Mpx)
--   Estilos Fotográficos de última generación
--   Fotos espaciales
--   Fotografía macro
--   Gama cromática amplia para fotos y Live Photos
--   Corrección del objetivo (ultra gran angular)
--   Corrección avanzada de ojos rojos
--   Estabili­zación automática de imagen
--   Modo ráfaga
--   Geoetiquetado de fotos
--   Captura de imagen en formato HEIF y JPEG
+- **Cámara Fusion de 48 Mpx:** 26 mm, apertura de ƒ/1,6, estabilización óptica de imagen por desplazamiento del sensor, 100 % Focus Pixels y compatibilidad con fotos de superalta resolución (24 y 48 Mpx).
+- **Teleobjetivo x2 de 12 Mpx:** 48 mm, apertura de ƒ/1,78, estabilización óptica de imagen por desplazamiento del sensor de segunda generación y 100 % Focus Pixels.
+- **Ultra gran angular de 12 Mpx:** 13 mm, apertura de ƒ/2,2 y campo de visión de 120° y 100 % Focus Pixels.
+- **Zoom óptico de acercamiento x2, zoom óptico de alejamiento x2 y rango de zoom óptico x4.**
+- **Zoom digital hasta x10.**
+- **Control de Cámara**
+- **Cubierta de la lente de cristal de zafiro**
+- **Flash True Tone**
+- **Photonic Engine**
+- **Deep Fusion**
+- **HDR Inteligente 5**
+- **Retratos de última generación con Control de Profundidad y Enfoque**
+- **Iluminación de Retratos con seis efectos**
+- **Modo Noche**
+- **Fotos panorámicas (hasta 63 Mpx)**
+- **Estilos Fotográficos de última generación**
+- **Fotos espaciales**
+- **Fotografía macro**
+- **Gama cromática amplia para fotos y Live Photos**
+- **Corrección del objetivo (ultra gran angular)**
+- **Corrección avanzada de ojos rojos**
+- **Estabilización automática de imagen**
+- **Modo ráfaga**
+- **Geoetiquetado de fotos**
+- **Captura de imagen en formato HEIF y JPEG**
 
-Grabación de vídeo
+## Grabación de vídeo
 
--   Grabación de vídeo en 4K a 24, 25, 30 o 60 f/s con Dolby Vision
--   Grabación de vídeo en 1080p a 25, 30 o 60 f/s con Dolby Vision
--   Grabación de vídeo en 720p a 30 f/s con Dolby Vision
--   Modo Cine hasta 4K HDR a 30 f/s
--   Modo Acción hasta 2,8K a 60 f/s
--   Grabación de vídeo macro, a cámara lenta y en time‑lapse
--   Vídeo a cámara lenta en 1080p a 120 o 240 f/s
--   Grabación de vídeo espacial en 1080p a 30 f/s
--   Vídeo en time‑lapse con estabili­zación
--   Time-lapse con modo Noche
--   Vídeo QuickTake hasta 4K a 60 f/s con Dolby Vision
--   Estabili­zación óptica de imagen por desplazamiento del sensor
-    para vídeo (cámara Fusion)
--   Zoom digital hasta x6
--   Zoom de audio
--   Flash True Tone
--   Estabili­zación de vídeo con calidad de cine (4K, 1080p y 720p)
--   Enfoque automático continuo
--   Opción de sacar fotos de 8 Mpx durante la grabación de vídeo en 4K
--   Reproducción con zoom
--   Grabación de vídeo en formato HEVC y H.264
--   Audio espacial y grabación en estéreo
--   Reducción de ruido del viento
--   Mezcla de Audio
+- **Grabación de vídeo en 4K a 24, 25, 30 o 60 f/s con Dolby Vision.**
+- **Grabación de vídeo en 1080p a 25, 30 o 60 f/s con Dolby Vision.**
+- **Grabación de vídeo en 720p a 30 f/s con Dolby Vision.**
+- **Modo Cine hasta 4K HDR a 30 f/s.**
+- **Modo Acción hasta 2,8K a 60 f/s.**
+- **Grabación de vídeo macro, a cámara lenta y en time‑lapse.**
+- **Vídeo a cámara lenta en 1080p a 120 o 240 f/s.**
+- **Grabación de vídeo espacial en 1080p a 30 f/s.**
+- **Vídeo en time‑lapse con estabilización.**
+- **Time-lapse con modo Noche.**
+- **Vídeo QuickTake hasta 4K a 60 f/s con Dolby Vision.**
+- **Estabilización óptica de imagen por desplazamiento del sensor para vídeo (cámara Fusion).**
+- **Zoom digital hasta x6.**
+- **Zoom de audio.**
+- **Flash True Tone.**
+- **Estabilización de vídeo con calidad de cine (4K, 1080p y 720p).**
+- **Enfoque automático continuo.**
+- **Opción de sacar fotos de 8 Mpx durante la grabación de vídeo en 4K.**
+- **Reproducción con zoom.**
+- **Grabación de vídeo en formato HEVC y H.264.**
+- **Audio espacial y grabación en estéreo.**
+- **Reducción de ruido del viento.**
+- **Mezcla de Audio.**
 
-Cámara TrueDepth
+## Cámara TrueDepth
 
--   Cámara de 12 Mpx
--   Apertura de ƒ/1,9
--   Enfoque automático con Focus Pixels
--   Retina Flash
--   Photonic Engine
--   Deep Fusion
--   HDR Inteligente 5
--   Retratos de última generación con Control de Profundidad y Enfoque
--   Iluminación de Retratos con seis efectos
--   Animoji y Memoji
--   Modo Noche
--   Estilos Fotográficos de última generación
--   Gama cromática amplia para fotos y Live Photos
--   Corrección del objetivo
--   Estabili­zación automática de imagen
--   Modo ráfaga
--   Grabación de vídeo en 4K a 24, 25, 30 o 60 f/s con Dolby Vision
--   Grabación de vídeo en 1080p a 25, 30 o 60 f/s con Dolby Vision
--   Modo Cine hasta 4K a 30 f/s con Dolby Vision
--   Vídeo a cámara lenta en 1080p a 120 f/s
--   Vídeo en time‑lapse con estabili­zación
--   Time-lapse con modo Noche
--   Vídeo QuickTake hasta 4K a 60 f/s con DolbyVision
--   Estabili­zación de vídeo con calidad de cine (4K, 1080p y 720p)
--   Audio espacial y grabación en estéreo
+- **Cámara de 12 Mpx**
+- **Apertura de ƒ/1,9**
+- **Enfoque automático con Focus Pixels**
+- **Retina Flash**
+- **Photonic Engine**
+- **Deep Fusion**
+- **HDR Inteligente 5**
+- **Retratos de última generación con Control de Profundidad y Enfoque**
+- **Iluminación de Retratos con seis efectos**
+- **Animoji y Memoji**
+- **Modo Noche**
+- **Estilos Fotográficos de última generación**
+- **Gama cromática amplia para fotos y Live Photos**
+- **Corrección del objetivo**
+- **Estabilización automática de imagen**
+- **Modo ráfaga**
+- **Grabación de vídeo en 4K a 24, 25, 30 o 60 f/s con Dolby Vision**
+- **Grabación de vídeo en 1080p a 25, 30 o 60 f/s con Dolby Vision**
+- **Modo Cine hasta 4K a 30 f/s con Dolby Vision**
+- **Vídeo a cámara lenta en 1080p a 120 f/s**
+- **Vídeo en time‑lapse con estabilización**
+- **Time-lapse con modo Noche**
+- **Vídeo QuickTake hasta 4K a 60 f/s con Dolby Vision**
+- **Estabilización de vídeo con calidad de cine (4K, 1080p y 720p)**
+- **Audio espacial y grabación en estéreo**
 
-Face ID
+## Face ID
 
-Reconoci­miento facial mediante la cámara TrueDepth
+- **Reconocimiento facial mediante la cámara TrueDepth.**
 
-Apple Pay
+## Apple Pay
 
--   Usa Face ID para pagar en tiendas, apps y páginas web con tu iPhone
--   Confirma las compras realizadas con Apple Pay en el Mac
+- **Usa Face ID para pagar en tiendas, apps y páginas web con tu iPhone.**
+- **Confirma las compras realizadas con Apple Pay en el Mac.**
 
-[*Más información sobre Apple Pay*](https://apple.com/es/apple-pay/)
+[Más información sobre Apple Pay](https://apple.com/es/apple-pay/)
 
-Seguridad
+---
 
--   Emergencia SOS vía satélite^4^
--   Detección de accidentes^5^
 
-Redes móviles e inalámbricas
 
-Modelo A3287\* Modelo A3290\*
+## Seguridad
 
--   FDD-5G NR (bandas n1, n2, n3, n5, n7, n8, n12, n20, n25, n26, n28,
-    n30, n66, n70, n75 y n76)
--   TDD-5G NR (bandas n38, n40, n41, n48, n53, n77, n78 y n79)
--   FDD-LTE (bandas 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26,
-    28, 30, 32 y 66)
--   TDD-LTE (bandas 34, 38, 39, 40, 41, 42, 48 y 53)
--   UMTS/HSPA+/DC‑HSDPA (850, 900, 1.700/2.100, 1.900 y 2.100 MHz)
--   GSM/EDGE (850, 900, 1.800 y 1.900 MHz)
+- **Emergencia SOS vía satélite**  
+- **Detección de accidentes**  
 
-Todos los modelos
+## Redes móviles e inalámbricas
 
--   5G (sub‑6 GHz) con MIMO 4x4^6^
--   LTE Gigabit con MIMO 4x4 y LAA^6^
--   Wi‑Fi 7 con MIMO 2x2^7^
--   Bluetooth 5.3
--   Chip de banda ultraancha de segunda generación^8^
--   Tecnología de red Thread
--   NFC con modo de lectura
--   Tarjetas exprés con reserva de batería
+### Modelos A3287 y A3290
 
-Para obtener más información sobre la compati­bilidad con redes 5G y LTE,
-ponte en contacto con tu operador y consulta la
-página [*apple.com/es/iphone/cellular*](https://www.apple.com/es/iphone/cellular/).
+- **FDD-5G NR** (bandas n1, n2, n3, n5, n7, n8, n12, n20, n25, n26, n28, n30, n66, n70, n75 y n76)  
+- **TDD-5G NR** (bandas n38, n40, n41, n48, n53, n77, n78 y n79)  
+- **FDD-LTE** (bandas 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32 y 66)  
+- **TDD-LTE** (bandas 34, 38, 39, 40, 41, 42, 48 y 53)  
+- **UMTS/HSPA+/DC-HSDPA** (850, 900, 1.700/2.100, 1.900 y 2.100 MHz)  
+- **GSM/EDGE** (850, 900, 1.800 y 1.900 MHz)  
 
-Geolocalización
+### Todos los modelos
 
--   GPS, GLONASS, Galileo, QZSS y BeiDou
--   Brújula digital
--   Wifi
--   Redes móviles
--   Microlocalización iBeacon
+- **5G (sub‑6 GHz) con MIMO 4x4**  
+- **LTE Gigabit con MIMO 4x4 y LAA**  
+- **Wi‑Fi 7 con MIMO 2x2**  
+- **Bluetooth 5.3**  
+- **Chip de banda ultraancha de segunda generación**  
+- **Tecnología de red Thread**  
+- **NFC con modo de lectura**  
+- **Tarjetas exprés con reserva de batería**  
 
-Videollamadas^9^
+Para obtener más información sobre la compatibilidad con redes 5G y LTE,  
+consulta la página oficial de Apple:  
+[Apple - iPhone Cellular](https://www.apple.com/es/iphone/cellular/)
 
--   Videollamadas FaceTime vía wifi o red móvil
--   Videollamadas FaceTime HD (1080p) vía wifi o redes 5G
--   SharePlay en llamadas FaceTime para disfrutar de películas, series,
-    música y apps en compañía
--   Pantalla compartida
--   Modo Retrato en videollamadas FaceTime
--   Audio espacial
--   Modos de micrófono Aislamiento de Voz y Sonido de Fondo
--   Zoom en la cámara trasera
+## Geolocalización
 
-Llamadas de voz^9^
+- **GPS, GLONASS, Galileo, QZSS y BeiDou**  
+- **Brújula digital**  
+- **Wi-Fi**  
+- **Redes móviles**  
+- **Microlocalización iBeacon**  
 
--   Llamadas de voz FaceTime
--   Voz por LTE (VoLTE)^6^
--   Llamadas vía wifi^6^
--   SharePlay en llamadas FaceTime para disfrutar de películas, series,
-    música y apps en compañía
--   Pantalla compartida
--   Audio espacial
--   Modos de micrófono Aislamiento de Voz y Sonido de Fondo
+## Videollamadas
 
-Reproducción de audio
+- **Videollamadas FaceTime vía Wi-Fi o red móvil**  
+- **Videollamadas FaceTime HD (1080p) vía Wi-Fi o redes 5G**  
+- **SharePlay en llamadas FaceTime** (para disfrutar de películas, series, música y apps en compañía)  
+- **Pantalla compartida**  
+- **Modo Retrato en videollamadas FaceTime**  
+- **Audio espacial**  
+- **Modos de micrófono: Aislamiento de Voz y Sonido de Fondo**  
+- **Zoom en la cámara trasera**  
 
--   Formatos compatibles: AAC, APAC, MP3, Apple Lossless, FLAC,
-    Dolby Digital, Dolby Digital Plus y Dolby Atmos (entre otros)
--   Audio espacial
--   Límite de volumen configurable por el usuario
+## Llamadas de voz
 
-Reproducción de vídeo
+- **Llamadas de voz FaceTime**  
+- **Voz por LTE (VoLTE)**  
+- **Llamadas vía Wi-Fi**  
+- **SharePlay en llamadas FaceTime**  
+- **Pantalla compartida**  
+- **Audio espacial**  
+- **Modos de micrófono: Aislamiento de Voz y Sonido de Fondo**  
 
--   Formatos compatibles: HEVC, H.264 y AV1 (entre otros)
--   HDR con Dolby Vision, HDR10+/HDR10 y HLG
--   AirPlay hasta 4K HDR para duplicación de pantalla y salida de fotos
-    y vídeo a través del Apple TV (2.ª generación o posterior) o de un
-    televisor inteligente con AirPlay
--   Compati­bilidad con vídeo en espejo y salida de vídeo: hasta 4K HDR a
-    través de la salida nativa DisplayPort mediante USB-C o del
-    adaptador de USB-C a AV digital (modelo A2119; el adaptador se vende
-    por separado)^10^
+## Reproducción de audio
 
-Siri^11^
+- **Formatos compatibles:** AAC, APAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus y Dolby Atmos (entre otros)  
+- **Audio espacial**  
+- **Límite de volumen configurable por el usuario**  
 
--   Agiliza las cosas que más haces, como mandar mensajes, poner
-    recordatorios y mucho más
--   Actívalo con solo decir «Oye Siri» o simplemente «Siri»
--   Con la mayor privacidad hasta la fecha para un asistente inteligente
+## Reproducción de vídeo
 
-[*Más información sobre Siri*](https://apple.com/es/siri/)
+- **Formatos compatibles:** HEVC, H.264 y AV1 (entre otros)  
+- **HDR con Dolby Vision, HDR10+/HDR10 y HLG**  
+- **AirPlay hasta 4K HDR** (para duplicación de pantalla y salida de fotos y vídeo a través de Apple TV o televisores inteligentes con AirPlay)  
+- **Compatibilidad con vídeo en espejo y salida de vídeo:** hasta 4K HDR a través de la salida nativa DisplayPort mediante USB-C o del adaptador de USB-C a AV digital (modelo A2119, se vende por separado)  
 
-Botones y conectores externos
+## Siri
 
-![](media/iphone_image1.png){width="3.95833in"
-height="6.95833in"}![](media/iphone_image2.png){width="3.95833in"
-height="6.4375in"}
+- **Agiliza las tareas diarias** (como enviar mensajes, poner recordatorios y mucho más)  
+- **Activación por voz:** "Oye Siri" o simplemente "Siri"  
+- **Privacidad mejorada** para un asistente más seguro  
 
-149. Cámara delantera
-150.  Botón lateral
-151.  Control de la cámara
-152.  Conector USB-C
-153.  Bandeja de la tarjeta SIM (disponible en modelos comprados fuera
-     de Estados Unidos)
-154.  Botones de volumen
-155.  Botón Acción
-156.  Cámaras traseras
-157. Flash
+[Más información sobre Siri](https://apple.com/es/siri/)
 
-Prestaciones del botón Acción
+## Botones y conectores externos
 
--   Modo Silencio, Modos de Concentración, Cámara, Linterna,
-    Notas de Voz, Reconocer Música, Traducir, Lupa, Controles,
-    Atajos o Accesibilidad
+![iPhone Botones](media/iphone_image1.png)  
+![iPhone Conectores](media/iphone_image2.png)  
 
-Prestaciones de Control de Cámara
+1. **Cámara delantera**  
+2. **Botón lateral**  
+3. **Control de la cámara**  
+4. **Conector USB-C**  
+5. **Bandeja de la tarjeta SIM** (disponible en modelos comprados fuera de Estados Unidos)  
+6. **Botones de volumen**  
+7. **Botón Acción**  
+8. **Cámaras traseras**  
+9. **Flash**  
 
--   Exposición, Profundidad, Zoom, Cámaras, Estilos y Tono
+## Prestaciones del botón Acción
 
-Carga y ampliación
+- **Modo Silencio, Modos de Concentración, Cámara, Linterna, Notas de Voz, Reconocer Música, Traducir, Lupa, Controles, Atajos o Accesibilidad**  
 
--   Conector USB‑C compatible con:
--   Carga
--   DisplayPort
--   USB 2 (hasta 480 Mb/s)
+## Prestaciones de Control de Cámara
 
-Batería y alimentación^12^
+- **Exposición, Profundidad, Zoom, Cámaras, Estilos y Tono**  
 
--   Reproducción de vídeo: Hasta 22 horas
--   Streaming de vídeo: Hasta 18 horas
--   Reproducción de audio: Hasta 80 horas
--   Batería recargable integrada de iones de litio
--   Carga inalámbrica con MagSafe de hasta 25 W con adaptador de 30 W
-    o superior^13^
--   Carga inalámbrica con cargadores Qi de hasta 7,5 W^13^
--   Carga rápida: Hasta un 50 % en unos 30 minutos^13^con un [*adaptador
-    de 20 W*](https://apple.com/es/shop/product/MUVV3ZM/A) o superior y
-    cable de carga USB‑C o con un [*adaptador de
-    30 W*](https://apple.com/es/shop/product/MW2G3ZM/A) o superior
-    y cargador MagSafe (todos se venden por separado)
+## Carga y ampliación
+
+- **Conector USB‑C compatible con:**  
+  - Carga  
+  - DisplayPort  
+  - USB 2 (hasta 480 Mb/s)  
+
+## Batería y alimentación
+
+- **Reproducción de vídeo:** Hasta 22 horas  
+- **Streaming de vídeo:** Hasta 18 horas  
+- **Reproducción de audio:** Hasta 80 horas  
+- **Batería recargable integrada de iones de litio**  
+- **Carga inalámbrica con MagSafe de hasta 25W** (con adaptador de 30W o superior)  
+- **Carga inalámbrica con cargadores Qi de hasta 7,5W**  
+- **Carga rápida:** Hasta un 50% en unos 30 minutos con un  
+  [Adaptador de 20W](https://apple.com/es/shop/product/MUVV3ZM/A) o superior y cable de carga USB‑C, o con un  
+  [Adaptador de 30W](https://apple.com/es/shop/product/MW2G3ZM/A) o superior y cargador MagSafe  
+  *(Todos se venden por separado.)*  
+
+---
 
 MagSafe
 
