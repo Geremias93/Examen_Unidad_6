@@ -260,8 +260,8 @@ Siri^11^
 
 Botones y conectores externos
 
-![](media/image1.png){width="3.95833in"
-height="6.95833in"}![](media/image2.png){width="3.95833in"
+![](media/iphone_image1.png){width="3.95833in"
+height="6.95833in"}![](media/iphone_image2.png){width="3.95833in"
 height="6.4375in"}
 
 149. Cámara delantera
